@@ -1,7 +1,7 @@
 
-# A Most Impressive Title
+# README Generator
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Table of Contents  
 [Description](#Description)\
@@ -11,24 +11,26 @@
 
 
 ## Description
-No description
+An app that creates a readme file based on user input
 
 
 ## Install Instructions
-No Install Instructions
+None
 
 
 ## Usage Information
-No Usage Information
+None
 
 
 ## Contribution Guidelines
-No Contribution Guidelines
+None
 
 
 ## Testing Guidelines
-No Guidelines for Testing
+None
 
 
 ## License
-You are using the Apache v2 license
+You are using the MIT license
+
+[Link to video](https://drive.google.com/file/d/1wAUcjM5td_Q9cLYCliZx-xyC_4kJRTko/view?usp=sharing)
