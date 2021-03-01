@@ -40,3 +40,5 @@ You are using the MIT license, click on the badge at the top of the page for mor
 
 ## Questions
 You can find me on [GitHub](https://github.com/AdamAranha) or you can reach me by email [here](mailto:a3aranha@gmail.com).
+
+[Click Here](https://drive.google.com/file/d/1oWFrDqt1xFG_7mH1iwC5eMszj8oikwWX/view?usp=sharing) to watch the video walkthrough
