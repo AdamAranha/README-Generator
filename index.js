@@ -49,6 +49,16 @@ async function askUser() {
                 name: 'license',
                 message: 'Please select the license(s) for this appliation',
                 choices: licenseList
+            },
+            {
+                type: 'input',
+                name: 'github',
+                message: 'Please enter your GitHub username',
+            },
+            {
+                type: 'input',
+                name: 'email',
+                message: 'Please your email'
             }
         ]
     )
@@ -83,26 +93,33 @@ ${license}
 [Description](#Description)\\
 [Install Instructions](#Install-Instructions)\\
 [Usage Information](#Usage-Information)\\
-[Contribution Guidelines](#Contribution-Guidelines)
+[Contribution Guidelines](#Contribution-Guidelines)\\
+[Testing Guidelines](#Testing-Guidelines)\\
+[License](#License)\\
+[Questions](#Questions)
+
 
 
 ## Description
-${questions.description}\n
+${questions.description}.\n
 
 ## Install Instructions
-${questions.installIns}\n
+${questions.installIns}.\n
 
 ## Usage Information
-${questions.usageInfo}\n
+${questions.usageInfo}.\n
 
 ## Contribution Guidelines
-${questions.contributionGuidelines}\n
+${questions.contributionGuidelines}.\n
 
 ## Testing Guidelines
-${questions.testGuide}\n
+${questions.testGuide}.\n
 
 ## License
-You are using the ${questions.license} license
+You are using the ${questions.license} license, click on the badge at the top of the page for more information.\n
+
+## Questions
+You can find me on [GitHub](https://github.com/${questions.github}) or you can reach me by email [here](mailto:${questions.email}).
 `;
 
 

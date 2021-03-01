@@ -1,5 +1,5 @@
 
-# README Generator
+# A Good README Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -7,30 +7,36 @@
 [Description](#Description)\
 [Install Instructions](#Install-Instructions)\
 [Usage Information](#Usage-Information)\
-[Contribution Guidelines](#Contribution-Guidelines)
+[Contribution Guidelines](#Contribution-Guidelines)\
+[Testing Guidelines](#Testing-Guidelines)\
+[License](#License)\
+[Questions](#Questions)
+
 
 
 ## Description
-An app that creates a readme file based on user input
+An application that takes in user input and generates a README file.
 
 
 ## Install Instructions
-None
+None.
 
 
 ## Usage Information
-None
+None.
 
 
 ## Contribution Guidelines
-None
+None.
 
 
 ## Testing Guidelines
-None
+None.
 
 
 ## License
-You are using the MIT license
+You are using the MIT license, click on the badge at the top of the page for more information.
 
-[Link to video](https://drive.google.com/file/d/1wAUcjM5td_Q9cLYCliZx-xyC_4kJRTko/view?usp=sharing)
+
+## Questions
+You can find me on [GitHub](https://github.com/AdamAranha) or you can reach me by email [here](mailto:a3aranha@gmail.com).
