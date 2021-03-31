@@ -1,5 +1,5 @@
 
-# A Good README Generator
+# Workout Tracker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -15,23 +15,23 @@
 
 
 ## Description
-An application that takes in user input and generates a README file.
+An App that allows me to view, create, and track daily workouts. The user is able to log multiple exercises in a workout on a given day. It is also able to track the name,type, weight, sets, reps, and duration of the exercise..
 
 
 ## Install Instructions
-None.
+.
 
 
 ## Usage Information
-None.
+.
 
 
 ## Contribution Guidelines
-None.
+.
 
 
 ## Testing Guidelines
-None.
+.
 
 
 ## License
@@ -40,5 +40,3 @@ You are using the MIT license, click on the badge at the top of the page for mor
 
 ## Questions
 You can find me on [GitHub](https://github.com/AdamAranha) or you can reach me by email [here](mailto:a3aranha@gmail.com).
-
-[Click Here](https://drive.google.com/file/d/1oWFrDqt1xFG_7mH1iwC5eMszj8oikwWX/view?usp=sharing) to watch the video walkthrough
