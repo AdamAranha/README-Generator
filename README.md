@@ -1,5 +1,5 @@
 
-# Workout Tracker
+# React Portfolio
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -15,7 +15,7 @@
 
 
 ## Description
-An App that allows me to view, create, and track daily workouts. The user is able to log multiple exercises in a workout on a given day. It is also able to track the name,type, weight, sets, reps, and duration of the exercise..
+The official Portfolio of my Full-Stack Web Development caeer and apparently an endless supply of life lessons. This is a consant Work in Progress and will be periodically updated to showcase growing knowledge in this space..
 
 
 ## Install Instructions
